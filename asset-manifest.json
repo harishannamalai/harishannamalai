@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c5f566a.chunk.css",
+    "main.js": "/static/js/main.93496179.chunk.js",
+    "main.js.map": "/static/js/main.93496179.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b585973.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b585973.js.map",
+    "static/css/2.73524e87.chunk.css": "/static/css/2.73524e87.chunk.css",
+    "static/js/2.279b423d.chunk.js": "/static/js/2.279b423d.chunk.js",
+    "static/js/2.279b423d.chunk.js.map": "/static/js/2.279b423d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9565860f02ea05dc06aee691b0bf27ac.js": "/precache-manifest.9565860f02ea05dc06aee691b0bf27ac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.73524e87.chunk.css.map": "/static/css/2.73524e87.chunk.css.map",
+    "static/css/main.9c5f566a.chunk.css.map": "/static/css/main.9c5f566a.chunk.css.map",
+    "static/media/docker.png": "/static/media/docker.0f548381.png",
+    "static/media/Intro.css": "/static/media/harish_self_background.2e976b75.png",
+    "static/media/java.png": "/static/media/java.cac1f4af.png",
+    "static/media/kubernetes.png": "/static/media/kubernetes.0e25b327.png",
+    "static/media/react.png": "/static/media/react.5df7cd23.png",
+    "static/media/springboot.png": "/static/media/springboot.9461d892.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b585973.js",
+    "static/css/2.73524e87.chunk.css",
+    "static/js/2.279b423d.chunk.js",
+    "static/css/main.9c5f566a.chunk.css",
+    "static/js/main.93496179.chunk.js"
+  ]
+}
